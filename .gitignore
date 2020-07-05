@@ -4,4 +4,7 @@ ehthumbs.db
 Desktop.ini
 # Public:
 /node_modules
+/dist
+.gitignore
+.browserslistrc
 # My configurations:
